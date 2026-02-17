@@ -1,99 +1,67 @@
-<h1 align="center">Hi 👋, I'm Salman Hossain</h1>
-<h3 align="center">🚀 Flutter Developer | Software Engineer from Bangladesh</h3>
+<p align="center"> <h1><strong>Hi 👋, I'm Salman Hossain</strong></h1> </p> <p align="center"> <h2><strong>A passionate Software Developer from Bangladesh</strong></h2> </p>
+
+- 🌱 I’m currently learning **Dart** and **Flutter**  
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/imsalluu)  
+- 💬 Ask me about **HTML**, **CSS**, **Dart**, **Flutter**, **JavaScript**, and **Python**  
+- 📫 How to reach me: [flutterdev.salman@gmail.com](mailto:flutterdev.salman@gmail.com)
+
 
 ---
-
 ## 🚀 About Me  
-
 - 🌍 Based in **Bangladesh**  
-- 📱 Passionate about building cross-platform mobile apps  
-- 🧠 Skilled in **System Architecture & Database Design**  
-- ☁️ Experienced in **VPS Deployment & Cloud Hosting**  
-- 🚀 Published apps on **Google Play Store & Apple App Store**  
-- ✨ Always learning and exploring new technologies  
+- 👨‍💻 Currently exploring the world of **Flutter development** and building cross-platform apps.  
+- 🎓 Lifelong learner, always up for mastering new tools, technologies, and trends.  
+- ✨ Believer in the power of **innovation** and **community** to create a better tomorrow.  
+
+---
+## 📫 Let’s Connect!  
+
+<p align="center">  
+  <a href="https://www.instagram.com/im_salluuu/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" title="Instagram" width="40" /></a>  
+  <a href="https://web.facebook.com/imsalluuu"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" title="Facebook" width="40" /></a>   
+</p> 
+
+
+
+
+### **🚀 Languages & Frameworks**  
+<p align="center">  
+  <img src="https://img.icons8.com/color/64/000000/dart.png" alt="Dart" title="Dart" />  
+  <img src="https://img.icons8.com/color/64/000000/flutter.png" alt="Flutter" title="Flutter" />  
+  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" title="JavaScript" />  
+  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML5" title="HTML5" />  
+  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS3" title="CSS3" />  
+</p>  
 
 ---
 
-## 💻 Languages  
-
-<p align="center">
-  <img src="https://img.icons8.com/color/64/dart.png" title="Dart"/>
-  <img src="https://img.icons8.com/color/64/flutter.png" title="Flutter"/>
-  <img src="https://img.icons8.com/color/64/javascript.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/64/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/64/html-5.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/64/css3.png" title="CSS3"/>
-</p>
+### **🔧 Tools & Platforms**  
+<p align="center">  
+  <img src="https://img.icons8.com/color/64/000000/firebase.png" alt="Firebase" title="Firebase" />  
+  <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" title="Git" />  
+  <img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code" />  
+  <img src="https://img.icons8.com/color/64/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" />  
+  <img src="https://img.icons8.com/color/64/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio" />  
+</p>  
 
 ---
 
-## 🗄 Database & Backend  
-
-<p align="center">
-  <img src="https://img.icons8.com/color/64/firebase.png" title="Firebase"/>
-  <img src="https://img.icons8.com/fluency/64/database.png" title="Database Design"/>
-  <img src="https://img.icons8.com/color/64/mysql-logo.png" title="SQL"/>
-  <img src="https://img.icons8.com/fluency/64/api.png" title="REST API"/>
-</p>
+### **🎨 Design Tools**  
+<p align="center">  
+  <img src="https://img.icons8.com/color/64/000000/figma.png" alt="Figma" title="Figma" />  
+  <img src="https://img.icons8.com/color/64/000000/adobe-xd.png" alt="Adobe XD" title="Adobe XD" />  
+</p>  
 
 ---
 
-## 🏗 Architecture & DevOps  
-
-<p align="center">
-  <img src="https://img.icons8.com/color/64/linux.png" title="VPS / Linux Server"/>
-  <img src="https://img.icons8.com/color/64/docker.png" title="Deployment"/>
-  <img src="https://img.icons8.com/fluency/64/system-task.png" title="System Architecture"/>
-</p>
+### **✨ Additional Tools**  
+<p align="center">  
+  <img src="https://img.icons8.com/color/64/000000/github.png" alt="GitHub" title="GitHub" />  
+  <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" title="Node.js" /> 
+</p>  
 
 ---
 
-## 🌐 Deployment & Hosting  
 
-<p align="center">
-  <img src="https://img.icons8.com/color/64/google-play.png" title="Play Store Deployment"/>
-  <img src="https://img.icons8.com/ios-filled/64/mac-os.png" title="Apple App Store"/>
-  <img src="https://img.icons8.com/color/64/vercel.png" title="Vercel"/>
-  <img src="https://img.icons8.com/color/64/domain.png" title="Website Hosting"/>
-</p>
 
----
-
-## 🛠 Tools & Platforms  
-
-<p align="center">
-  <img src="https://img.icons8.com/color/64/git.png" title="Git"/>
-  <img src="https://img.icons8.com/color/64/github.png" title="GitHub"/>
-  <img src="https://img.icons8.com/color/64/visual-studio-code-2019.png" title="VS Code"/>
-  <img src="https://img.icons8.com/color/64/android-studio--v3.png" title="Android Studio"/>
-  <img src="https://img.icons8.com/color/64/intellij-idea.png" title="IntelliJ IDEA"/>
-</p>
-
----
-
-## 🎨 Design Tools  
-
-<p align="center">
-  <img src="https://img.icons8.com/color/64/figma.png" title="Figma"/>
-  <img src="https://img.icons8.com/color/64/adobe-xd.png" title="Adobe XD"/>
-</p>
-
----
-
-## 📫 Connect With Me  
-
-<p align="center">
-  <a href="mailto:flutterdev.salman@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png"/>
-  </a>
-  <a href="https://www.instagram.com/im_salluuu/">
-    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
-  </a>
-  <a href="https://web.facebook.com/imsalluuu">
-    <img src="https://img.icons8.com/color/48/facebook-new.png"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">💡 Building scalable apps that perform, grow & inspire 🚀</h3>
+**Feel free to reach out if you want to collaborate, brainstorm, or just chat about tech and beyond!**
