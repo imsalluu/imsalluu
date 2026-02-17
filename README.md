@@ -1,67 +1,115 @@
-<p align="center"> <h1><strong>Hi 👋, I'm Salman Hossain</strong></h1> </p> <p align="center"> <h2><strong>A passionate Software Developer from Bangladesh</strong></h2> </p>
+<!-- ================= HEADER ================= -->
 
-- 🌱 I’m currently learning **Dart** and **Flutter**  
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/imsalluu)  
-- 💬 Ask me about **HTML**, **CSS**, **Dart**, **Flutter**, **JavaScript**, and **Python**  
-- 📫 How to reach me: [flutterdev.salman@gmail.com](mailto:flutterdev.salman@gmail.com)
+<!-- ================= SOCIAL ================= -->
 
+<p align="center">
+  <a href="https://www.instagram.com/im_salluuu/">
+    <img src="https://img.shields.io/badge/Instagram-@im__salluuu-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://web.facebook.com/imsalluuu">
+    <img src="https://img.shields.io/badge/Facebook-imsalluuu-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:flutterdev.salman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://salman-hossain-flutter.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
----
-## 🚀 About Me  
-- 🌍 Based in **Bangladesh**  
-- 👨‍💻 Currently exploring the world of **Flutter development** and building cross-platform apps.  
-- 🎓 Lifelong learner, always up for mastering new tools, technologies, and trends.  
-- ✨ Believer in the power of **innovation** and **community** to create a better tomorrow.  
-
----
-## 📫 Let’s Connect!  
-
-<p align="center">  
-  <a href="https://www.instagram.com/im_salluuu/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" title="Instagram" width="40" /></a>  
-  <a href="https://web.facebook.com/imsalluuu"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" title="Facebook" width="40" /></a>   
-</p> 
-
-
-
-
-### **🚀 Languages & Frameworks**  
-<p align="center">  
-  <img src="https://img.icons8.com/color/64/000000/dart.png" alt="Dart" title="Dart" />  
-  <img src="https://img.icons8.com/color/64/000000/flutter.png" alt="Flutter" title="Flutter" />  
-  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" title="JavaScript" />  
-  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML5" title="HTML5" />  
-  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS3" title="CSS3" />  
-</p>  
+<p align="center">
+  <em>Engineering scalable, production-ready mobile solutions.</em>
+</p>
 
 ---
 
-### **🔧 Tools & Platforms**  
-<p align="center">  
-  <img src="https://img.icons8.com/color/64/000000/firebase.png" alt="Firebase" title="Firebase" />  
-  <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" title="Git" />  
-  <img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code" />  
-  <img src="https://img.icons8.com/color/64/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" />  
-  <img src="https://img.icons8.com/color/64/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio" />  
-</p>  
+## 🌐 Portfolio
+
+**Live Website:**  
+🔗 https://salman-hossain-flutter.vercel.app/
+
+Designed with a minimal, performance-optimized architecture and deployed on **Vercel** for reliability, speed, and scalability.
 
 ---
 
-### **🎨 Design Tools**  
-<p align="center">  
-  <img src="https://img.icons8.com/color/64/000000/figma.png" alt="Figma" title="Figma" />  
-  <img src="https://img.icons8.com/color/64/000000/adobe-xd.png" alt="Adobe XD" title="Adobe XD" />  
-</p>  
+## 🧠 Executive Profile
+
+Results-driven Software Engineer specializing in cross-platform mobile development using Flutter.  
+
+Experienced in architecting scalable systems, designing optimized database structures, managing VPS infrastructure, and deploying production-ready applications across Google Play Store and Apple App Store.
+
+Focused on building high-performance, maintainable, and user-centric digital products.
 
 ---
 
-### **✨ Additional Tools**  
-<p align="center">  
-  <img src="https://img.icons8.com/color/64/000000/github.png" alt="GitHub" title="GitHub" />  
-  <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" title="Node.js" /> 
-</p>  
+# ⚡ Core Competencies
+
+- Cross-Platform Mobile Development (Flutter)
+- System Architecture & Design Patterns
+- Database Modeling & Performance Optimization
+- RESTful API Integration
+- VPS Deployment & Linux Server Management
+- CI/CD & Production Pipelines
+- Google Play & Apple App Store Publishing
+- Web Hosting (Vercel, VPS, Nginx)
+- Debugging, Profiling & Performance Tuning
 
 ---
 
+# 🛠 Technology Stack
 
+## Programming Languages
 
-**Feel free to reach out if you want to collaborate, brainstorm, or just chat about tech and beyond!**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+</p>
+
+---
+
+## Databases
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
+</p>
+
+---
+
+## Infrastructure & DevOps
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+</p>
+
+---
+
+## Deployment Platforms
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="42"/>
+</p>
+
+---
+
+# 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsalluu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=imsalluu&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <strong>“Engineering scalable solutions with precision, performance, and clean architecture.”</strong>
+</p>
