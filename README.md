@@ -1,69 +1,83 @@
-<p align="center"> <h1><strong>Hi 👋, I'm Salman Hossain</strong></h1> </p> <p align="center"> <h2><strong>A passionate Software Developer from Bangladesh</strong></h2> </p>
-
-- 🌱 I’m currently learning **Dart** and **Flutter**  
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/imsalluu)  
-- 💬 Ask me about **HTML**, **CSS**, **Dart**, **Flutter**, **JavaScript**, and **Python**  
-- 📫 How to reach me: [flutterdev.salman@gmail.com](mailto:flutterdev.salman@gmail.com)
-
-
----
-## 🚀 About Me  
-- 🌍 Based in **Bangladesh**  
-- 👨‍💻 Currently exploring the world of **Flutter development** and building cross-platform apps.  
-- 🎓 Lifelong learner, always up for mastering new tools, technologies, and trends.  
-- ✨ Believer in the power of **innovation** and **community** to create a better tomorrow.  
-
----
-## 📫 Let’s Connect!  
-
-<p align="center">  
-  <a href="https://www.instagram.com/im_salluuu/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" title="Instagram" width="40" /></a>  
-  <a href="https://web.facebook.com/imsalluuu"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" title="Facebook" width="40" /></a>   
-</p> 
-
-
-
-
-### **🚀 Languages & Frameworks**  
-<p align="center">  
-  <img src="https://img.icons8.com/color/64/000000/dart.png" alt="Dart" title="Dart" />  
-  <img src="https://img.icons8.com/color/64/000000/flutter.png" alt="Flutter" title="Flutter" />  
-  <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript" title="JavaScript" />  
-  <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML5" title="HTML5" />  
-  <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS3" title="CSS3" />  
-</p>  
+<h1 align="center">Hi 👋, I'm Salman Hossain</h1>
+<h3 align="center">🚀 Flutter Developer | Software Engineer | Tech Enthusiast from Bangladesh</h3>
 
 ---
 
-### **🔧 Tools & Platforms**  
-<p align="center">  
-  <img src="https://img.icons8.com/color/64/000000/firebase.png" alt="Firebase" title="Firebase" />  
-  <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" title="Git" />  
-  <img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png" alt="VS Code" title="Visual Studio Code" />  
-  <img src="https://img.icons8.com/color/64/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" />  
-  <img src="https://img.icons8.com/color/64/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio" />  
-</p>  
+## 🌟 About Me
+
+- 🌍 Based in **Bangladesh**
+- 📱 Passionate about building **high-performance cross-platform apps**
+- 🧠 Skilled in **System Architecture & Database Design**
+- 🚀 Experienced in **App Deployment & Cloud Hosting**
+- 📚 Lifelong learner exploring modern technologies and scalable systems
+- ✨ Strong believer in innovation, clean code & impactful products
 
 ---
 
-### **🎨 Design Tools**  
-<p align="center">  
-  <img src="https://img.icons8.com/color/64/000000/figma.png" alt="Figma" title="Figma" />  
-  <img src="https://img.icons8.com/color/64/000000/adobe-xd.png" alt="Adobe XD" title="Adobe XD" />  
-</p>  
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  Dart • JavaScript • Python • HTML • CSS
+</p>
+
+### 📱 Frameworks & Libraries
+<p>
+  Flutter • Node.js • Firebase
+</p>
+
+### 🗄 Database & Backend
+<p>
+  Firebase Firestore • Realtime Database • SQL • Database Design • REST APIs
+</p>
+
+### 🏗 Architecture & DevOps
+<p>
+  System Architecture • VPS Deployment • CI/CD Basics • Cloud Integration
+</p>
+
+### 🌐 Deployment & Hosting
+<p>
+  Google Play Store Deployment • Apple App Store Deployment •  
+  Website Hosting • VPS Server Setup • Vercel Deployment
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  Git • GitHub • Android Studio • VS Code • IntelliJ IDEA • Firebase Console
+</p>
+
+### 🎨 UI/UX & Design
+<p>
+  Figma • Adobe XD • Responsive UI Design
+</p>
 
 ---
 
-### **✨ Additional Tools**  
-<p align="center">  
-  <img src="https://img.icons8.com/color/64/000000/github.png" alt="GitHub" title="GitHub" />  
-  <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" title="Node.js" /> 
-</p>  
+## 📂 Projects
+
+All of my projects are available on:  
+👉 **GitHub:** https://github.com/imsalluu  
 
 ---
 
+## 📫 Connect With Me
 
+📧 Email: flutterdev.salman@gmail.com  
+📸 Instagram: https://www.instagram.com/im_salluuu/  
+📘 Facebook: https://web.facebook.com/imsalluuu  
 
-**Feel free to reach out if you want to collaborate, brainstorm, or just chat about tech and beyond!**
+---
 
+## 🔥 What I Do
 
+✔ Build scalable Flutter applications  
+✔ Design clean and efficient system architectures  
+✔ Deploy apps to Play Store & App Store  
+✔ Set up VPS servers & production environments  
+✔ Host websites & deploy on Vercel  
+✔ Optimize performance & fix complex production bugs  
+
+---
+
+<h3 align="center">💡 “Building solutions that scale, perform, and inspire.”</h3>
