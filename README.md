@@ -1,19 +1,23 @@
 <!-- ================= HEADER ================= -->
 
-<!-- ================= SOCIAL ================= -->
+<h1 align="center">Salman Hossain</h1>
+<h3 align="center">Flutter Engineer • Mobile Application Specialist • System Design Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/im_salluuu/">
-    <img src="https://img.shields.io/badge/Instagram-@im__salluuu-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://salman-hossain-flutter.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel"/>
   </a>
-  <a href="https://web.facebook.com/imsalluuu">
-    <img src="https://img.shields.io/badge/Facebook-imsalluuu-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  &nbsp;&nbsp;
   <a href="mailto:flutterdev.salman@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://salman-hossain-flutter.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/imsalluu">
+    <img src="https://img.shields.io/badge/GitHub-imsalluu-181717?style=for-the-badge&logo=github"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/im_salluuu/">
+    <img src="https://img.shields.io/badge/Instagram-@im__salluuu-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -28,13 +32,13 @@
 **Live Website:**  
 🔗 https://salman-hossain-flutter.vercel.app/
 
-Designed with a minimal, performance-optimized architecture and deployed on **Vercel** for reliability, speed, and scalability.
+Minimal, performance-optimized architecture deployed on **Vercel** for speed, reliability, and scalability.
 
 ---
 
 ## 🧠 Executive Profile
 
-Results-driven Software Engineer specializing in cross-platform mobile development using Flutter.  
+Results-driven Software Engineer specializing in cross-platform mobile development using Flutter.
 
 Experienced in architecting scalable systems, designing optimized database structures, managing VPS infrastructure, and deploying production-ready applications across Google Play Store and Apple App Store.
 
@@ -61,10 +65,13 @@ Focused on building high-performance, maintainable, and user-centric digital pro
 ## Programming Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </p>
 
 ---
@@ -72,9 +79,11 @@ Focused on building high-performance, maintainable, and user-centric digital pro
 ## Databases
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
 
 ---
@@ -82,10 +91,13 @@ Focused on building high-performance, maintainable, and user-centric digital pro
 ## Infrastructure & DevOps
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
 
 ---
@@ -93,10 +105,13 @@ Focused on building high-performance, maintainable, and user-centric digital pro
 ## Deployment Platforms
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40"/>
 </p>
 
 ---
@@ -105,6 +120,7 @@ Focused on building high-performance, maintainable, and user-centric digital pro
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imsalluu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=imsalluu&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
